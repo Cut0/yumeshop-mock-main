@@ -1,0 +1,531 @@
+{
+  "shopItems": [
+    {
+      "name": "ボールペン",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [
+        "d77535c3-25f7-4fcd-94a7-9bd4e716c877",
+        "0a0a7546-57d4-47a1-a17c-6e651e46cd1b"
+      ],
+      "categories": ["73ac938d-e8e1-4ae1-b98a-e18815077f2e"],
+      "campaigns": ["2ebf7390-c739-42bb-8cd9-61c6dd6798de"],
+      "details": [
+        {
+          "header": "素晴らしいボールペン",
+          "content": "最新の構造によって、素晴らしい書き味が実現されました！"
+        },
+        {
+          "header": "50%OFFセール中",
+          "content": "文房具フェアによって、50%OFFで販売中！\n是非お買い求めください！"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": ["76b8dad0-da6d-40b7-8d91-7430f6cf8435"],
+      "id": "4dfd9672-5633-4328-b104-832e2f18c2a7",
+      "price": {
+        "selling_price": 100,
+        "original_price": 200,
+        "discounted": true,
+        "discount_amount": 100,
+        "discount_percentage": 50
+      }
+    },
+    {
+      "name": "シャープペンシル",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [
+        "f2a63298-408b-41c0-b135-08bf15c2e66e",
+        "d77535c3-25f7-4fcd-94a7-9bd4e716c877",
+        "0a0a7546-57d4-47a1-a17c-6e651e46cd1b"
+      ],
+      "categories": ["73ac938d-e8e1-4ae1-b98a-e18815077f2e"],
+      "campaigns": ["2ebf7390-c739-42bb-8cd9-61c6dd6798de"],
+      "details": [
+        {
+          "header": "最新のシャープペンシル",
+          "content": "最新の機能によって、シャープペンシルの芯は折れなくなりました！"
+        },
+        {
+          "header": "75%OFFセール中",
+          "content": "文房具フェアによって、75%OFFで販売中！\n是非お買い求めください！"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [
+        "e968f17c-2e63-4153-92f0-adfe52693e2e",
+        "4dfd9672-5633-4328-b104-832e2f18c2a7"
+      ],
+      "id": "76b8dad0-da6d-40b7-8d91-7430f6cf8435",
+      "price": {
+        "selling_price": 100,
+        "original_price": 400,
+        "discounted": true,
+        "discount_amount": 300,
+        "discount_percentage": 25
+      }
+    },
+    {
+      "name": "消しゴム",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": ["f2a63298-408b-41c0-b135-08bf15c2e66e"],
+      "categories": ["73ac938d-e8e1-4ae1-b98a-e18815077f2e"],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "素晴らしい消しゴムです！",
+          "content": "どんなに濃く書いても完璧に消すことができます！"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": ["76b8dad0-da6d-40b7-8d91-7430f6cf8435"],
+      "id": "e968f17c-2e63-4153-92f0-adfe52693e2e",
+      "price": {
+        "selling_price": 200,
+        "original_price": 200,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 0
+      }
+    },
+    {
+      "name": "色鉛筆",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": ["73ac938d-e8e1-4ae1-b98a-e18815077f2e"],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "128種類の色があります",
+          "content": "128種類の色があるので、どんな絵でも書くことができます。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [
+        "76b8dad0-da6d-40b7-8d91-7430f6cf8435",
+        "e968f17c-2e63-4153-92f0-adfe52693e2e"
+      ],
+      "id": "1e3721d9-e7cc-413a-a5fb-66489dd4c4ee",
+      "price": {
+        "selling_price": 2000,
+        "original_price": 2000,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 0
+      }
+    },
+    {
+      "name": "マウス",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": ["de02eda3-2a3e-480c-8f1c-73490d9a6660"],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "最新の光学マウス",
+          "content": "最新式の光学マウスです。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [],
+      "id": "7957d36b-a38a-4705-ba32-8f6e6b59deeb",
+      "price": {
+        "selling_price": 2000,
+        "original_price": 4000,
+        "discounted": true,
+        "discount_amount": 2000,
+        "discount_percentage": 50
+      }
+    },
+    {
+      "name": "PC用コントローラー",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": [
+        "de02eda3-2a3e-480c-8f1c-73490d9a6660",
+        "2cfc8c55-8794-4d6a-90d2-dfa6689d7be1"
+      ],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "PC用のコントローラー",
+          "content": "PCに接続して使えるゲーム用コントローラーです"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [],
+      "id": "dca9b1ba-0400-4d6f-8a71-9da3a8381a9f",
+      "price": {
+        "selling_price": 2000,
+        "original_price": 2000,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 0
+      }
+    },
+    {
+      "name": "アクションゲームのソフト",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [
+        "f2a63298-408b-41c0-b135-08bf15c2e66e",
+        "d77535c3-25f7-4fcd-94a7-9bd4e716c877",
+        "0a0a7546-57d4-47a1-a17c-6e651e46cd1b"
+      ],
+      "categories": ["2cfc8c55-8794-4d6a-90d2-dfa6689d7be1"],
+      "campaigns": ["0daa17e7-dac6-45de-82c7-c5e932276439"],
+      "details": [
+        {
+          "header": "面白いアクションゲームのソフト",
+          "content": "とても面白いアクションゲームのソフトです。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [
+        "dca9b1ba-0400-4d6f-8a71-9da3a8381a9f",
+        "49bf78e2-4d0b-4aa4-a232-3baa186a6706",
+        "a2b39bc5-3595-406a-9724-5956bf5c2d20"
+      ],
+      "id": "2a89d695-bba6-43e7-8f7b-34e95678f3b8",
+      "price": {
+        "selling_price": 3000,
+        "original_price": 6000,
+        "discounted": true,
+        "discount_amount": 3000,
+        "discount_percentage": 50
+      }
+    },
+    {
+      "name": "シューティングゲームのソフト",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [
+        "f2a63298-408b-41c0-b135-08bf15c2e66e",
+        "d77535c3-25f7-4fcd-94a7-9bd4e716c877",
+        "0a0a7546-57d4-47a1-a17c-6e651e46cd1b"
+      ],
+      "categories": ["2cfc8c55-8794-4d6a-90d2-dfa6689d7be1"],
+      "campaigns": ["0daa17e7-dac6-45de-82c7-c5e932276439"],
+      "details": [
+        {
+          "header": "面白いシューティングゲームのソフト",
+          "content": "とても面白いシューティングゲームのソフトです。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [
+        "dca9b1ba-0400-4d6f-8a71-9da3a8381a9f",
+        "2a89d695-bba6-43e7-8f7b-34e95678f3b8",
+        "a2b39bc5-3595-406a-9724-5956bf5c2d20"
+      ],
+      "id": "49bf78e2-4d0b-4aa4-a232-3baa186a6706",
+      "price": {
+        "selling_price": 3000,
+        "original_price": 6000,
+        "discounted": true,
+        "discount_amount": 3000,
+        "discount_percentage": 50
+      }
+    },
+    {
+      "name": "古いゲームのソフト",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": ["2cfc8c55-8794-4d6a-90d2-dfa6689d7be1"],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "古いゲームのソフト",
+          "content": "古いゲームのソフトです。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [
+        "dca9b1ba-0400-4d6f-8a71-9da3a8381a9f",
+        "2a89d695-bba6-43e7-8f7b-34e95678f3b8",
+        "49bf78e2-4d0b-4aa4-a232-3baa186a6706",
+        "2f52f845-3d1e-44c6-a73c-79ae3284d495"
+      ],
+      "id": "a2b39bc5-3595-406a-9724-5956bf5c2d20",
+      "price": {
+        "selling_price": 2000,
+        "original_price": 2000,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 100
+      }
+    },
+    {
+      "name": "面白い漫画",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": ["db7849fd-88fc-465f-a3be-febe6b777f55"],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "とても面白い",
+          "content": "とても面白い漫画です。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [],
+      "id": "e9712d4e-9c90-4a3a-b34e-f1ab4a2352b2",
+      "price": {
+        "selling_price": 600,
+        "original_price": 600,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 100
+      }
+    },
+    {
+      "name": "悲しい小説",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": ["db7849fd-88fc-465f-a3be-febe6b777f55"],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "とても悲しくなる結末",
+          "content": "最後まで読んだら涙が出てきます。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [],
+      "id": "bdd9f9f0-12a8-4e7c-984d-39f6c5799045",
+      "price": {
+        "selling_price": 1000,
+        "original_price": 1000,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 100
+      }
+    },
+    {
+      "name": "ゲームの攻略本",
+      "thumbnail": "https://picsum.photos/300/300",
+      "tags": [],
+      "categories": [
+        "db7849fd-88fc-465f-a3be-febe6b777f55",
+        "2cfc8c55-8794-4d6a-90d2-dfa6689d7be1"
+      ],
+      "campaigns": [],
+      "details": [
+        {
+          "header": "大人気ゲームの攻略本",
+          "content": "この攻略本通りにプレイすれば100%クリアできます。"
+        }
+      ],
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "related_shop_items": [],
+      "id": "2f52f845-3d1e-44c6-a73c-79ae3284d495",
+      "price": {
+        "selling_price": 2000,
+        "original_price": 2000,
+        "discounted": false,
+        "discount_amount": 0,
+        "discount_percentage": 100
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "73ac938d-e8e1-4ae1-b98a-e18815077f2e",
+      "name": "文房具",
+      "thumbnail": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "de02eda3-2a3e-480c-8f1c-73490d9a6660",
+      "name": "PC・周辺機器",
+      "thumbnail": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "d3586eac-335b-4844-a9b1-3b43aa5eb583",
+      "name": "服",
+      "thumbnail": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "db7849fd-88fc-465f-a3be-febe6b777f55",
+      "name": "本",
+      "thumbnail": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "2cfc8c55-8794-4d6a-90d2-dfa6689d7be1",
+      "name": "ゲーム",
+      "thumbnail": "https://picsum.photos/300/300"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "2ebf7390-c739-42bb-8cd9-61c6dd6798de",
+      "name": "文房具フェア",
+      "thumbnail": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "0daa17e7-dac6-45de-82c7-c5e932276439",
+      "name": "夏休みキャンペーン",
+      "thumbnail": "https://picsum.photos/300/300"
+    }
+  ],
+  "informations": [
+    {
+      "title": "文房具フェアのお知らせ",
+      "detail": "7/1から文房具フェアを開催します。\n期間中最大80%OFFで文房具をお買い求めいただけます。\nこの機会にぜひご利用ください。",
+      "tags": [],
+      "announced_at": "2021-07-01T00:00:00+09:00",
+      "id": "0dfd7659-7217-4eab-a348-b07ee238853e"
+    },
+    {
+      "title": "新作ゲームの入荷",
+      "detail": "新作のゲームを入荷いたしました。\n入荷数が少ないため、売り切れる前に早めにご購入いただくことをお勧めします。",
+      "tags": [
+        "d7b071eb-37f6-4fb7-be6f-ac7a33a03761",
+        "84e4e574-073c-4e00-8d18-c2c8ea4b7421"
+      ],
+      "announced_at": "2021-07-01T00:00:00+09:00",
+      "id": "a3aa65c7-dc44-4a4b-b6bd-669552738be6"
+    },
+    {
+      "title": "メンテナンスのお知らせ",
+      "detail": "システムの更新のためにメンテナンスを行います。\n8/1の0時0分からやく2時間を予定しております。\nこの時間中にはゆめショップをご利用いただけなくなりますので、ご理解ご協力の程をよろしくお願いいたします。",
+      "tags": [
+        "d7b071eb-37f6-4fb7-be6f-ac7a33a03761",
+        "4ca12003-6c27-4ac0-8c76-5b41662a8077"
+      ],
+      "announced_at": "2021-07-01T00:00:00+09:00",
+      "id": "57a7daf9-c920-4ca1-be49-d934252e711a"
+    }
+  ],
+  "promotions": [
+    {
+      "id": "8b8fc818-258f-4e32-8db0-1e907db6bfe2",
+      "title": "文房具フェア",
+      "image": "https://picsum.photos/600/600",
+      "detail": "今なら文房具が安い！",
+      "link": "https://example.com/"
+    },
+    {
+      "id": "f3d6cc4c-b32f-4e02-9307-37bc822c16e2",
+      "title": "新商品入荷！",
+      "image": "https://picsum.photos/600/600",
+      "detail": "新しい商品を入荷しました！",
+      "link": "https://example.com/"
+    },
+    {
+      "id": "3820e442-48d5-4f33-82b4-827fa9b1b7ee",
+      "title": "ポイント増量中！",
+      "image": "https://picsum.photos/600/600",
+      "detail": "今なら最大50%のポイント還元キャンペーン！",
+      "link": "https://example.com/"
+    },
+    {
+      "id": "46718559-fc0b-402c-9414-fc6946c672fd",
+      "title": "友達紹介で2000円OFF",
+      "image": "https://picsum.photos/600/600",
+      "detail": "友達を紹介することで1人あたり、2000円の割引クーポンをプレゼントします！",
+      "link": "https://example.com/"
+    },
+    {
+      "id": "9655cf7a-f76e-46b5-9b63-73d3f84ab03d",
+      "title": "新作ゲーム続々登場！",
+      "image": "https://picsum.photos/600/600",
+      "detail": "新作ゲームをたくさん入荷しています！",
+      "link": "https://example.com/"
+    }
+  ],
+  "tags": [
+    {
+      "id": "f2a63298-408b-41c0-b135-08bf15c2e66e",
+      "name": "新商品",
+      "color": "orange",
+      "tag_group": "shop_item"
+    },
+    {
+      "id": "d77535c3-25f7-4fcd-94a7-9bd4e716c877",
+      "name": "期間限定",
+      "color": "red",
+      "tag_group": "shop_item"
+    },
+    {
+      "id": "0a0a7546-57d4-47a1-a17c-6e651e46cd1b",
+      "name": "特別価格",
+      "color": "green",
+      "tag_group": "shop_item"
+    },
+    {
+      "id": "d7b071eb-37f6-4fb7-be6f-ac7a33a03761",
+      "name": "重要",
+      "color": "red",
+      "tag_group": "information"
+    },
+    {
+      "id": "84e4e574-073c-4e00-8d18-c2c8ea4b7421",
+      "name": "新商品",
+      "color": "orange",
+      "tag_group": "information"
+    },
+    {
+      "id": "4ca12003-6c27-4ac0-8c76-5b41662a8077",
+      "name": "メンテナンス",
+      "color": "mediumpurple",
+      "tag_group": "information"
+    }
+  ]
+}

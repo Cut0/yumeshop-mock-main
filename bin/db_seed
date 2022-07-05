@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+/* eslint-disable @typescript-eslint/no-var-requires */
+/* eslint-env node */
+
+const fs = require('fs')
+const path = require('path')
+
+const src = path.resolve(__dirname, '../database/seed.json')
+const dest = path.resolve(__dirname, '../database/db.json')
+
+fs.copyFileSync(src, dest)
