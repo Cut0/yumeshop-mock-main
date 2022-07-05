@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "282Haniwa <282haniwa@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "mock": "npm-run-all -s generate:types start",
     "mock:seed": "npm-run-all -s database:seed mock",
