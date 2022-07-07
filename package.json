@@ -11,6 +11,7 @@
     "database:seed": "node ./bin/db_seed",
     "generate:types": "npm-run-all -s clean:typescript-fetch generate:typescript-fetch clean:types && cpx \"openapi/generated/typescript-fetch/{models/**/*,runtime.ts}\" src/types/openapi",
     "generate:typescript-fetch": "openapi-generator-cli generate -g typescript-fetch -i openapi/reference/openapi.yaml -o openapi/generated/typescript-fetch --additional-properties=modelPropertyNaming=snake_case,supportsES6=true,withInterfaces=true,typescriptThreePlus=true",
+    "generate:typescript-fetch-package": "tsc --p tsconfig.fetcher.json",
     "clean:build": "rimraf dist",
     "clean:typescript-fetch": "rimraf openapi/generated",
     "clean:types": "rimraf src/types/openapi",

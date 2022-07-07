@@ -180,3 +180,5 @@ dist
 openapi/generated
 src/types/openapi
 database/db.json
+
+fetcher
