@@ -1,9 +1,20 @@
 {
-  "name": "yumeshop-mock",
+  "name": "@cut0/yumeshop-mock",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "282Haniwa <282haniwa@gmail.com>",
+  "author": "cut0 <zeron9421@gmail.com>",
   "license": "MIT",
+  "main": "./fetcher/index.js",
+  "types": "./fetcher/index.d.ts",
+  "files": [
+    "fetcher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cut0/yumeshop-mock-main.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "mock": "npm-run-all -s generate:types start",
     "mock:seed": "npm-run-all -s database:seed mock",
@@ -11,6 +22,7 @@
     "database:seed": "node ./bin/db_seed",
     "generate:types": "npm-run-all -s clean:typescript-fetch generate:typescript-fetch clean:types && cpx \"openapi/generated/typescript-fetch/{models/**/*,runtime.ts}\" src/types/openapi",
     "generate:typescript-fetch": "openapi-generator-cli generate -g typescript-fetch -i openapi/reference/openapi.yaml -o openapi/generated/typescript-fetch --additional-properties=modelPropertyNaming=snake_case,supportsES6=true,withInterfaces=true,typescriptThreePlus=true",
+    "generate:typescript-fetch-package": "tsc --p tsconfig.fetcher.json",
     "clean:build": "rimraf dist",
     "clean:typescript-fetch": "rimraf openapi/generated",
     "clean:types": "rimraf src/types/openapi",
