@@ -1,9 +1,20 @@
 {
-  "name": "yumeshop-mock",
+  "name": "@cut0/yumeshop-mock",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "282Haniwa <282haniwa@gmail.com>",
+  "author": "cut0 <zeron9421@gmail.com>",
   "license": "MIT",
+  "main": "./fetcher/index.js",
+  "types": "./fetcher/index.d.ts",
+  "files": [
+    "fetcher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cut0/yumeshop-mock-main.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "mock": "npm-run-all -s generate:types start",
     "mock:seed": "npm-run-all -s database:seed mock",
