@@ -5,7 +5,7 @@ info:
   description: yumeshopのAPIが定義されています。
   contact: {}
 servers:
-  - url: 'http://localhost:3000'
+  - url: 'https://quiet-bastion-66056.herokuapp.com'
     description: dev mock server
 tags:
   - name: shop_items
