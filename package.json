@@ -1,6 +1,6 @@
 {
   "name": "@cut0/yumeshop-mock",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "cut0 <zeron9421@gmail.com>",
   "license": "MIT",
   "main": "./fetcher/index.js",
